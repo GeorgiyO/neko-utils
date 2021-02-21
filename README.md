@@ -1,9 +1,9 @@
 # Neko-utils
 
-### install:
-npm install neko-utils (not available now)
+## install:
+npm install neko-utils
 
-### Usage example:
+## Usage example:
 https://github.com/GeorgiyO/neko-utils/blob/master/src/usage.js
 
 ## Description:
